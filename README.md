@@ -1,2 +1,2 @@
-# didactic-octo-waddle
+# project
 my first project
